@@ -1,5 +1,5 @@
 homepage: "https://www.markus-baersch.de"
 documentation: "https://github.com/mbaersch/log-to-console-tag#readme"
 versions:
-  - sha: xxxx
+  - sha: a31aebaae37347ce92f92659b7239a1b42e2a065
     changeNotes: initial release.
