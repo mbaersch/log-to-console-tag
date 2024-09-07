@@ -12,8 +12,7 @@ This template serves as a way to use the browser's console in containers with no
 Add at least one constant value or variable to the list and pick an output format. If more than one value is defined, you can either log every value seperately or create only one log entry with all values converted to string or an array.
 
 ## Log in debug mode only
-If enabled, the tag does not log anything if executed
+If enabled, the tag does not log anything if executed.
 
 ## Text and background colors
- Only when *string* is used as log format, the output can be styled using CSS color values for text and background
-
+ Only when *string* is used as log format, the output can be styled using CSS color values for text and background.
